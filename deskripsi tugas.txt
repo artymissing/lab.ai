@@ -1,0 +1,2 @@
+Proyek ini menerapkan logika fuzzy untuk menentukan tingkat kemacetan jalan berdasarkan dua variabel input: jumlah kendaraan (kendaraan per jam) dan kecepatan rata-rata kendaraan (km/jam).
+Dengan menggunakan metode fuzzy inference (Mamdani), sistem menghasilkan output berupa kategori kemacetan jalan (lancar, sedang, macet).
